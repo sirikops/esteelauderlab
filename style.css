@@ -1,0 +1,82 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Mulish', sans-serif;
+  margin: 2em;
+  /* background-color: #FAE1DF; */
+  background-color: white;
+}
+
+h1 {
+  /* font-style: italic; */
+  font-family: 'Mulish', sans-serif;
+  /* color: #373fff; */
+  size: 500px;
+}
+
+ul {
+ border-color: #F7C1BB;
+ border-style: solid; 
+ text-align: center;
+ flex-direction: space-between;
+}
+
+.title {
+  text-align: right;
+  color: #525174;
+  text-emphasis-color: #513B56;
+}
+
+.option {
+  display: inline;
+  color: #885A5A;
+  /* border-color: #F7C1BB;
+  border-style: solid; */
+  font-family: 'Mulish', sans-serif;
+}
+
+.hero-title {
+  font-family: 'Mulish', sans-serif;
+  color: #885A5A;
+  text-align: center;
+}
+
+.hero-text {
+  text-align: center;
+}
+
+.shop-now-btn {
+  font-family: 'Mulish', sans-serif;
+  background-color: white;
+  border-color: #F7C1BB;
+}
+
+.media-1 {
+  flex-direction: center;
+  align-items: center;
+  border-color:#F7C1BB;
+  /* display: inline; */
+  border-style: solid;
+  size: 3px;
+  margin-bottom: 50px;
+}
+
+.media-2 {
+  align-items: center;
+  flex-direction: center;
+  /*i want to center this boi*/
+}
+
+.media-3 {
+  /*ahh ill do it later*/
+}
+
+/* I want to have the first image and words on the same line, with the words on the right and img on left */
+/* make button go to the right or center */
+/* make the image on the bottom span the footer */
+/* center the video, and maybe include funky border */
+
+/* more hex colors: EBC3DB, 4E6E58, 8C2F39, 461220*/
+/* more hex colors: 885A5A, F7C1BB */
+/* more hex colors: 525174, 513B56 */
+
